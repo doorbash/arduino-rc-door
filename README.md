@@ -1,0 +1,8 @@
+```
+// #define SOFTWARE_SERIAL
+#define DEBUG_MODE
+#define MAX_BUFFER_SIZE 200
+#define BAUD_RATE_SERIAL 9600
+#define DATA_PIN 2
+#define BIT_PERIOD 350
+```
